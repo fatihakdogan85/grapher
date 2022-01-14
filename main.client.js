@@ -1,3 +1,4 @@
+import './lib/mongo-instances.js';
 import './lib/extension.js';
 import './lib/links/extension.js';
 import './lib/query/reducers/extension.js';

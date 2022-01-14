@@ -1,3 +1,4 @@
+import './lib/mongo-instances.js';
 import './lib/extension.js';
 import './lib/aggregate';
 import './lib/exposure/extension.js';

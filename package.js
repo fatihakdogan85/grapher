@@ -29,7 +29,7 @@ Package.onUse(function(api) {
     "mongo",
     "matb33:collection-hooks@1.1.0",
     "reywood:publish-composite@1.7.3",
-    "dburles:mongo-collection-instances@0.3.5",
+    "lai:collection-extensions@0.3.0",
     "peerlibrary:subscription-scope@0.5.0",
     "herteby:denormalize@0.6.5"
   ];
@@ -49,7 +49,7 @@ Package.onTest(function(api) {
     "underscore",
     "matb33:collection-hooks@1.1.0",
     "reywood:publish-composite@1.7.3",
-    "dburles:mongo-collection-instances@0.3.5",
+    "lai:collection-extensions@0.3.0",
     "herteby:denormalize@0.6.5",
     "mongo"
   ];
